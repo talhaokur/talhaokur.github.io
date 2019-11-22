@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/talhaokur
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://talhaokur.net
+  * I am talhaokur (https://keybase.io/talhaokur) on keybase.
+  * I have a public key ASATmOZMws99cPDtoqx2f6pRlQo7HpB4FmcBBLNjZBO2Bwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120da2738814ab4d1e0ae179bf53944f0ae3b38a50586d2137fb352fdcfbd0437180a",
+      "host": "keybase.io",
+      "kid": "01201398e64cc2cf7d70f0eda2ac767faa51950a3b1e907816670104b3636413b6070a",
+      "uid": "c3778e42ab7fb4d38b1a48bc0ecbc819",
+      "username": "talhaokur"
+    },
+    "merkle_root": {
+      "ctime": 1514627563,
+      "hash": "cf09d50eda4e27e2ac8e1e0ec9536b0c754695930d3105095adc16eef5b20ae9cf1fec4dbe9e3f70f214f47a1065ac5a567f2a80a293dafcc45ea25d20553d68",
+      "hash_meta": "1edd9c990604c4d519886c24e51dda828338b699fd119684339536104541576a",
+      "seqno": 1869835
+    },
+    "service": {
+      "hostname": "talhaokur.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514627580,
+  "expire_in": 504576000,
+  "prev": "932c665e02a791349bfb666151615c287a1369e6ec64fd8a7e0684b41a5295e9",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgE5jmTMLPfXDw7aKsdn+qUZUKOx6QeBZnAQSzY2QTtgcKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGEyNzM4ODE0YWI0ZDFlMGFlMTc5YmY1Mzk0NGYwYWUzYjM4YTUwNTg2ZDIxMzdmYjM1MmZkY2ZiZDA0MzcxODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTM5OGU2NGNjMmNmN2Q3MGYwZWRhMmFjNzY3ZmFhNTE5NTBhM2IxZTkwNzgxNjY3MDEwNGIzNjM2NDEzYjYwNzBhIiwidWlkIjoiYzM3NzhlNDJhYjdmYjRkMzhiMWE0OGJjMGVjYmM4MTkiLCJ1c2VybmFtZSI6InRhbGhhb2t1ciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNDYyNzU2MywiaGFzaCI6ImNmMDlkNTBlZGE0ZTI3ZTJhYzhlMWUwZWM5NTM2YjBjNzU0Njk1OTMwZDMxMDUwOTVhZGMxNmVlZjViMjBhZTljZjFmZWM0ZGJlOWUzZjcwZjIxNGY0N2ExMDY1YWM1YTU2N2YyYTgwYTI5M2RhZmNjNDVlYTI1ZDIwNTUzZDY4IiwiaGFzaF9tZXRhIjoiMWVkZDljOTkwNjA0YzRkNTE5ODg2YzI0ZTUxZGRhODI4MzM4YjY5OWZkMTE5Njg0MzM5NTM2MTA0NTQxNTc2YSIsInNlcW5vIjoxODY5ODM1fSwic2VydmljZSI6eyJob3N0bmFtZSI6InRhbGhhb2t1ci5uZXQiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM4In0sImN0aW1lIjoxNTE0NjI3NTgwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjkzMmM2NjVlMDJhNzkxMzQ5YmZiNjY2MTUxNjE1YzI4N2ExMzY5ZTZlYzY0ZmQ4YTdlMDY4NGI0MWE1Mjk1ZTkiLCJzZXFubyI6MTUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA7n7mcNJUX5PiQkJsDNqLefPtlsrDxyS4oC80SiC5+BDGe9LBoEFb40fnmSPngcvpuvujfvjW6lGp9cZhjKxEB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJw+PhiAY9liV8E317VXYefPegIdMMkRPecXF2MEtdNUo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/talhaokur
+
+==================================================================

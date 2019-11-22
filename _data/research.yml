@@ -1,0 +1,5 @@
+projects:
+  - title: Parallel Feature Extraction and Emotion Recognition from Speech
+    contributors: T.Okur, <a href="https://www.linkedin.com/in/yekta-can-yildirim-90462b16a/" target="_blank">Y. Yıldırım</a>
+    description: The parallel feature extraction from sound files, and classification of emotions from extracted data using KNN and Decision Trees. For this purpose, <a href="https://smartlaboratory.org/ravdess/" target="_blank">RAVDESS</a> database for 2452 sound files was used and those sound files’ features were extracted by pyAudioAnalysis library. Using the 34 features, the sound files were classified as one of the eight emotions.
+
