@@ -18,7 +18,7 @@ permalink: /projects/
 {% endif %}
 
 {% if site.data.research.projects %}
-## Self Educational Projects
+## Projects
 <ul class="listing">
 {% for project in site.data.research.projects %}
 <li>
@@ -37,7 +37,7 @@ permalink: /projects/
 {% for software in site.data.research.softwares %}
 <li>
 <b>{{ software.title }}</b> <br>
-<i>{{ software.contributors }}</i><br>
+<small><i>{{ software.contributors }}</i></small><br>
 {{ software.description }} <br>
 [<a href="{{ software.url }}">URL</a>]
 </li>
