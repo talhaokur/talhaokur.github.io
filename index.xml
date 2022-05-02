@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talha Okur</title>
+    <link>https://talhaokur.net/</link>
+    <description>Recent content on Talha Okur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://talhaokur.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talha Okur</title>
+      <link>https://talhaokur.net/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://talhaokur.net/resume/</guid>
+      <description>Exprience Nokia I am working as an Applied R&amp;amp;D Engineer on Charging Systems at Nokia. March 2022 - Present
+Gazi University During my two years at Gazi University I was a Research and Teaching Assistant at Computer Engineering Department. I gain exprience on teaching while sharpening my skills on Programming, Data Science and Distributed Systems. I&amp;rsquo;d assisted given lectures:
+ Database Management Systems Web Programming Object Oriented Programming Mobile Application Development on Android Application Development for IoT Devices  March 2020 - February 2022</description>
+    </item>
+    
+  </channel>
+</rss>
